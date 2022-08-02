@@ -23,7 +23,6 @@
     "react-i18next": "^11.7.0",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.3",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "sass": "^1.32.7",
@@ -64,6 +63,7 @@
     "@types/react-redux": "^7.1.1",
     "@types/react-router-dom": "^4.3.3",
     "@types/redux": "^3.6.0",
+    "react-scripts": "^4.0.3",
     "tslint": "^5.20.0",
     "tslint-microsoft-contrib": "6.2.0"
   }
